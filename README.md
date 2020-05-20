@@ -3,7 +3,7 @@
 
 # Dicee
 
-a simple Dice app,using the Random funcion of the dart math library
+A simple Rolling Dice app using the Random funcion of the dart math library
 
 ## App 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
