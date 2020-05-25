@@ -5,7 +5,7 @@
 
 A simple Rolling Dice app using the Random funcion of the dart math library
 
-## App 
+## Finished App 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
 ## What did i learn with this project
